@@ -1,5 +1,4 @@
 print("Hello World")
 
-for i < 10:
-  print("Hello")
-  i+=1
+while 1<5:
+    print("Bye")
